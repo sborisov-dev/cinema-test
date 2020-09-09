@@ -1,0 +1,16 @@
+{
+  "name": "cinema.test",
+  "version": "1.0.0",
+  "description": "Test for teleport",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --harmony main.js"
+  },
+  "engines": {
+    "node": "5.3.0",
+    "npm": "3.3.12"
+  },
+  "author": "Sergey Borisov <borisovsa1@gmail.com>",
+  "license": "MIT"
+}
